@@ -1,0 +1,8 @@
+def find_sum(num1,num2):
+    return (num1 + num2)
+
+number1 = int(input("Write 1st number: "))
+number2 = float(input("Write 2nd number: "))
+
+result = find_sum(number1,number2)
+print(result)
